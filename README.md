@@ -1,5 +1,5 @@
 # Asteroids_Game
-A simple bottom-up implmentation of Asteroids. 
+A bottom-up implmentation of Asteroids. 
 
 The Game: 
 You fly through space and try to shoot the asteroids before they hit you.
@@ -7,7 +7,7 @@ If you manage to shoot all asteroids, you cleared the game. If you're hit by one
 
 Notes:
 - The only outside source used is the short helper library "hl.js", created by /adeshar00.
-- All game concepts implemented here (motion vectors, gravity, rotation etc) were derived from scratch (whiteboard brainstorming) and/or foggy memories of the 10th grade physics class.
+- All game concepts implemented here (motion vectors, gravity, rotation etc) were derived from scratch (whiteboard brainstorming) and/or foggy memories of my 10th grade physics class.
 
 POSSIBLE TODO:
 - reduce redundancies
